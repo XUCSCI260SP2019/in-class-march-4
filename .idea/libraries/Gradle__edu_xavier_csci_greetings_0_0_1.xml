@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: edu.xavier.csci:greetings:0.0.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/edu/xavier/csci/greetings/0.0.1/greetings-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

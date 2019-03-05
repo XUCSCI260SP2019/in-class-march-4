@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.dentinger:sample-java-lib:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dentinger/sample-java-lib/1.0/sample-java-lib-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
